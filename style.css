@@ -12,7 +12,6 @@ color: rgba(3, 1, 1, 0.192);
 
     }
 
-
-
-
-
+header {
+border:  solid 2px rbg();
+}
