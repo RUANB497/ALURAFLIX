@@ -3,7 +3,6 @@ background-color: rgb(2, 128, 2);
 color: rgb(0, 0, 0);
 margin:0px;
 
-
 }
 
 h1 {
@@ -14,9 +13,13 @@ color: rgba(3, 1, 1, 0.192);
 
 header {
 border-bottom:  solid 2px rgb(8, 68, 11);
+padding: 20px;
+font-size:32px;
+color: forestgreen(42, 122, 228);
 }
 
 
+
 section{
-background: rgb(126, 6, 255);
+background: rgb(30, 70, 47);
 }
