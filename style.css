@@ -1,7 +1,7 @@
 body{
-background-color: rgb(2, 94, 2);
+background-color: rgb(2, 128, 2);
 color: rgb(0, 0, 0);
-
+margin:0px;
 
 
 }
@@ -19,3 +19,4 @@ border-bottom:  solid 2px rgb(8, 68, 11);
 
 section{
 background: rgb(126, 6, 255);
+}
