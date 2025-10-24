@@ -22,4 +22,9 @@ color: forestgreen(42, 122, 228);
 
 section{
 background: rgb(30, 70, 47);
+padding-bottom: 80px;
+padding: top 80px; 
+display: flex;
+justify-content: center;
+
 }
